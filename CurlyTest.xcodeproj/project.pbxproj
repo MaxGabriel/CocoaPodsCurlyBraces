@@ -18,6 +18,7 @@
 		50835E8316C0E77F00749B26 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 50835E8216C0E77F00749B26 /* Default-568h@2x.png */; };
 		50835E8616C0E77F00749B26 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50835E8416C0E77F00749B26 /* MainStoryboard.storyboard */; };
 		50835E8916C0E77F00749B26 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 50835E8816C0E77F00749B26 /* ViewController.m */; };
+		50835E9116C0E7CA00749B26 /* Test”.m in Sources */ = {isa = PBXBuildFile; fileRef = 50835E9016C0E7CA00749B26 /* Test”.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,8 @@
 		50835E8516C0E77F00749B26 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		50835E8716C0E77F00749B26 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		50835E8816C0E77F00749B26 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		50835E8F16C0E7CA00749B26 /* Test”.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Test”.h"; sourceTree = "<group>"; };
+		50835E9016C0E7CA00749B26 /* Test”.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "Test”.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +91,8 @@
 				50835E8416C0E77F00749B26 /* MainStoryboard.storyboard */,
 				50835E8716C0E77F00749B26 /* ViewController.h */,
 				50835E8816C0E77F00749B26 /* ViewController.m */,
+				50835E8F16C0E7CA00749B26 /* Test”.h */,
+				50835E9016C0E7CA00749B26 /* Test”.m */,
 				50835E7316C0E77F00749B26 /* Supporting Files */,
 			);
 			path = CurlyTest;
@@ -176,6 +181,7 @@
 				50835E7916C0E77F00749B26 /* main.m in Sources */,
 				50835E7D16C0E77F00749B26 /* AppDelegate.m in Sources */,
 				50835E8916C0E77F00749B26 /* ViewController.m in Sources */,
+				50835E9116C0E7CA00749B26 /* Test”.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

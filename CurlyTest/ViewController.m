@@ -8,6 +8,8 @@
 
 #import "ViewController.h"
 
+#import "Test”.h"
+
 @interface ViewController ()
 
 @end
@@ -18,6 +20,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    Test_ *test = [[Test_ alloc] init];
+    NSLog(@"Test = %@",test);
 }
 
 - (void)didReceiveMemoryWarning
